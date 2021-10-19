@@ -4,6 +4,10 @@ Dockerized Space Ranger v1.3.0
 
 https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger
 
+## License
+
+The code is available to everyone under the standard [MIT license](./LICENSE.txt). However, it internally uses 10x software, so please make sure that you read and agree to [10x End User Software License](https://www.10xgenomics.com/end-user-software-license-agreement).
+
 ## Build Container Image
 
 SCING (Single-Cell pIpeliNe Garden; pronounced as "sing" /siŋ/) is required for smooth and uninteruppted build process (e.g. CI/CD). For setup, please refer to [this page](https://github.com/hisplan/scing). All the instructions below is given under the assumption that you have already configured SCING in your environment.
