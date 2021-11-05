@@ -1,4 +1,4 @@
-version="1.3.0"
+version="1.3.1"
 site_url="https://support.10xgenomics.com/spatial-gene-expression/software/downloads/1.3/"
 download_url=""
 

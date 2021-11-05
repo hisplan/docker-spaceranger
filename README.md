@@ -1,6 +1,6 @@
 # docker-spaceranger
 
-Dockerized Space Ranger v1.3.0
+Dockerized Space Ranger v1.3.1
 
 https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger
 
@@ -33,7 +33,7 @@ conda activate scing
 ```bash
 $ spaceranger
 
-spaceranger spaceranger-1.3.0
+spaceranger spaceranger-1.3.1
 Process 10x Genomics Spatial Gene Expression data
 
 USAGE:
